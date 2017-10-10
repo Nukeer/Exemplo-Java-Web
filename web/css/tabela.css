@@ -1,0 +1,20 @@
+table{
+    border: 1px solid black;
+    width: 75%;
+    margin-left: 12.5%;
+    border-collapse: collapse;
+}
+
+tr th, .table-footer td{
+    background-color: #B71C1C;
+    color: white;
+    height: 40px;
+    text-align: center;
+    padding: 0;
+}
+
+tr td{
+    background-color: #7B1FA2;
+    padding: 8px;
+    border-bottom: 1px solid white;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: chartreuse;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: Londrina Solid;
+}
+
+.conteudo-titulo{
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+.acao-novo{
+    float: right;
+}
+.acao-novo-link{
+    width: 140px;
+    padding: 5px;
+    background-color: #E3F3FD;
+    color: #E91E63;
+}
+
+.acao-novo-link:hover{
+    color: #1E88E5;
+}
